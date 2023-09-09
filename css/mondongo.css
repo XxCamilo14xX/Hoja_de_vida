@@ -1,0 +1,196 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:whitesmoke
+}
+.nombre{
+        width: 400px;
+        height: 300px;
+        background-color: #D3D4D9;
+    
+        margin-left: 20px;
+        border-radius: 2%;
+    }
+    
+.nombre .contenido{
+    width: 280px;
+    height: 100px;
+    position: absolute;
+    left: 60px; ;
+    margin-top: 30px;
+   
+}
+
+.nombre .contenido .name{
+    color: #252627;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 46px;
+  
+    margin-bottom: 0px;
+}
+.nombre .contenido .datosp{
+    color: #040404;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+    
+    margin-top: 0px;
+}
+
+.informacion{
+   width: 90%; 
+   height: 200px;
+   background-color: #252627;
+   margin:30px 30px;
+   padding: 20px;
+   border-radius: 20px;
+}
+.informacion .acmi{
+   color: rgb(203, 206, 209); 
+   font-family: 'Bebas Neue', sans-serif;
+   font-size: x-large;
+   margin-top: 2px;
+   font-weight: bold;
+   border-bottom: 2px whitesmoke solid;
+   text-align: center;
+}
+.informacion .acmi2{
+    color: rgb(203, 206, 209); 
+    font-family: 'Bebas Neue', sans-serif;
+    font-size:x-large;
+    margin-top: 2px;
+    border-bottom: 2px #D3D4D9;
+}
+.contacto{
+    width: 90%; 
+   height: auto;
+   background-color: #252627;
+   margin:30px 30px;
+   padding: 20px;
+   border-radius: 20px;
+}
+.contacto .Contacto{
+    color: rgb(203, 206, 209); 
+   font-family: 'Bebas Neue', sans-serif;
+   font-size: x-large;
+   margin-top: 2px;
+   font-weight: bold;
+   border-bottom: 2px whitesmoke solid;
+}.contacto .nombreca{
+    color: rgb(203, 206, 209); 
+    font-family: 'Bebas Neue', sans-serif;
+    font-size:large;
+    margin-top: 2px;
+    display:inline;
+}.contacto .nombreac{
+    color: rgb(203, 206, 209); 
+    font-family: 'Bebas Neue', sans-serif;
+    font-size:large;
+    display:inline;
+}
+.contacto .correo{
+    color: rgb(203, 206, 209); 
+    font-family: 'Bebas Neue', sans-serif;
+    font-size:large;
+    display:inline;
+    margin-top: 2px;
+}
+.contacto .correoo{
+    color: rgb(203, 206, 209); 
+    font-family: 'Bebas Neue', sans-serif;
+    font-size:large;
+    display:inline;
+    margin-top: 2px;
+}
+.contacto .telefono{
+    color: rgb(203, 206, 209); 
+    font-family: 'Bebas Neue', sans-serif;
+    font-size:large;
+    display:inline;
+    margin-top: 2px;
+}
+.contacto .celular{
+    color: rgb(203, 206, 209); 
+    font-family: 'Bebas Neue', sans-serif;
+    font-size:large;
+    display:inline;
+    margin-top: 2px;
+}
+.educacion{
+    background-color: #252627;
+    width: 90%; 
+   height: auto;
+   background-color: #252627;
+   margin:30px 30px;
+   padding: 20px;
+   border-radius: 20px;
+  
+}
+.educacion .Educacion{
+    color: rgb(203, 206, 209); 
+   font-family: 'Bebas Neue', sans-serif;
+   font-size: x-large;
+   margin-top: 2px;
+   font-weight: bold;
+   border-bottom: 2px whitesmoke solid;
+}
+.educacion .fecha1{
+    color: rgb(203, 206, 209); 
+    font-family: 'Bebas Neue', sans-serif;
+    font-size:large;
+    margin-top: 1px;
+    text-align:left;
+    margin-bottom: 0px;
+    
+}
+.educacion .harva{
+    color: rgb(203, 206, 209); 
+    font-family: 'Bebas Neue', sans-serif;
+    font-size:large;
+    margin-top: 1px;
+}
+    .educacion .fecha2{
+        color: rgb(203, 206, 209); 
+        font-family: 'Bebas Neue', sans-serif;
+        font-size:large;
+        margin-top: 1px;
+        text-align:left;
+        margin-bottom: 0px;
+    }
+.educacion .stan{
+    color: rgb(203, 206, 209); 
+    font-family: 'Bebas Neue', sans-serif;
+    font-size:large;
+    margin-top: 1px;
+}
+.educacion .lengua{
+    color: rgb(203, 206, 209); 
+    font-family: 'Bebas Neue', sans-serif;
+    font-size:large;
+    margin-top: 1px;
+}
+
+ .img {
+    position: absolute;
+    top: 5%;
+    right: 0;
+    width: 400px;
+    height: 500px;
+    margin-bottom: 4px;
+    
+    
+  
+}
+
+ .img img {
+    width: 40%;
+    height: auto;
+   
+   
+   
+}
+
+
+
+    
+
+
